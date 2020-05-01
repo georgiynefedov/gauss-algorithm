@@ -1,0 +1,12 @@
+{
+  "name": "untitled1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "aws-sdk": "^2.658.0"
+  },
+  "license": "ISC"
+}
